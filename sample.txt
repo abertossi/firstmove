@@ -1,0 +1,3 @@
+This sample text was originally created locally after moving into a new branch called "new_branch". 
+
+Challenge is to push this branch to the online repository and commit the work done to "origin master"
