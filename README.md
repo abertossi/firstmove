@@ -1,2 +1,2 @@
 # firstmove
-An initial repository to learn pushing and pulling 
+A repository to learn push and pull after cloning via SSH 
